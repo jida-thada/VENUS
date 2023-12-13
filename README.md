@@ -22,8 +22,7 @@ https://drive.google.com/drive/folders/1ShzRZF2ARXTnyfEaS-uRdVehX7bt8wlJ?usp=dri
 
 Run script as:
 
-    python main.py -backbone resnet -tname t0_densenet t1_resnet -t_modelname \
-densenet resnet -data-name data1 -t_tasks '2 0' '2 3 1' -ep 1
+    python main.py -backbone resnet -tname t0_densenet t1_resnet -t_modelname densenet resnet -data-name data1 -t_tasks '2 0' '2 3 1' -ep 1
 
 <b>Parameters:</b>
 
